@@ -1,0 +1,23 @@
+Symbol range map extraction starting
+Processing 6 files
+startProcessing "trhod177/recipemod/RecipeMod.java" md5: 51edcaf18bc8566ac8c850dee7e53f59
+endProcessing "trhod177/recipemod/RecipeMod.java"
+
+startProcessing "trhod177/recipemod/Reference.java" md5: fe488903dfab445457c82ef83086ffba
+endProcessing "trhod177/recipemod/Reference.java"
+
+startProcessing "trhod177/recipemod/books/RecipeGuide.java" md5: 1090eff8c7339176ed4fa001bb5af2e5
+endProcessing "trhod177/recipemod/books/RecipeGuide.java"
+
+startProcessing "trhod177/recipemod/handlers/RecipeHandler.java" md5: bf432d96a720590072b7633e1c97a961
+Cache Hit!
+endProcessing "trhod177/recipemod/handlers/RecipeHandler.java"
+
+startProcessing "trhod177/recipemod/proxy/ClientProxy.java" md5: 2d3521a9274d938d6161df8ca3281fb7
+Cache Hit!
+endProcessing "trhod177/recipemod/proxy/ClientProxy.java"
+
+startProcessing "trhod177/recipemod/proxy/CommonProxy.java" md5: 5e343dd76a77483a4f8078c47156068b
+Cache Hit!
+endProcessing "trhod177/recipemod/proxy/CommonProxy.java"
+

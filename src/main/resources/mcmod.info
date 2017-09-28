@@ -1,0 +1,16 @@
+[
+{
+  "MODID": "trm",
+  "name": "Trhod's More Recipes Mod",
+  "description": "Adds More Recipes.",
+  "version": "1.7V1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Trhod177"],
+  "credits": "Guide-API",
+  "logoFile": "Logo.png",
+  "screenshots": [],
+  "dependencies": [Forge, Minecraft]
+}
+]
