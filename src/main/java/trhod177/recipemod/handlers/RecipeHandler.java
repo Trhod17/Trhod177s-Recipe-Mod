@@ -109,6 +109,14 @@ public class RecipeHandler {
 	}
 	
 
-	
+	 @SideOnly(Side.CLIENT)
+	 public void getSubItems(Item itemIn, CreativeTabs tab, NonNullList<ItemStack> subItems)
+	    {
+	        for (EntityList.EntityEggInfo entitylist$entityegginfo : EntityList.ENTITY_EGGS.values())
+	        {
+	            ItemStack itemstack = new ItemStack(itemIn, 1);
+	            applyEntityIdToItemStack(itemstack, entitylist$entityegginfo.spawnedID);
+	            subItems.add(itemstack);
+	        }
 
 }
